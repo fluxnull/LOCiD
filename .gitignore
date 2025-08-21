@@ -1,0 +1,22 @@
+
+# Build artifacts
+build/
+*.exe
+*.dll
+*.so
+*.a
+
+# Test artifacts
+tests/output/
+
+# Other
+.DS_Store
+*.swp
+
+# Downloaded source code
+blake3/
+xxhash/
+get-docker.sh
+
+# Documentation
+/docs/
